@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn = "navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/nav_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_cuestionarios"
+            android:icon="@drawable/nav_cuestionarios"
+            android:title="Cuestionarios" />
+        <item
+            android:id="@+id/nav_metas"
+            android:icon="@drawable/nav_metas"
+            android:title="Metas" />
+        <item
+            android:id="@+id/nav_vidasaludable"
+            android:icon="@drawable/nav_vidasaludable"
+            android:title="Vida Saludable" />
+        <item
+            android:id="@+id/nav_progreso"
+            android:icon="@drawable/nav_progreso"
+            android:title="Progreso" />
+        <item
+            android:id="@+id/nav_comentarios"
+            android:icon="@drawable/nav_comentarios"
+            android:title="Comentarios" />
+        <item
+            android:title=""/>
+        <item
+            android:title=""/>
+        <item
+            android:title=""/>
+        <item
+            android:title=""/>
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/nav_logout"
+            android:title="Logout"/>
+    </group>
+</menu>

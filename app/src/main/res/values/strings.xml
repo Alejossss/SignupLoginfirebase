@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HealthApp</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+    <string name="nav_header_title">Bienvenid@, mejorar tus habitos de vida es nuestro proposito</string>
+    <string name="nav_header_subtitle">Selecciona un menú</string>
+    <string name="ic_index">Navigation header</string>
+    <string name="fragment_home">Cuestionarios</string>
+    <string name="fragment_cuestionarios">Cuestionarios</string>
+    <string name="fragment_metas">Metas</string>
+    <string name="fragment_vida_saludable">Vida Saludable</string>
+    <string name="fragment_progreso">Progreso</string>
+    <string name="fragment_comentarios">Comentarios</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
